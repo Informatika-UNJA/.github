@@ -1,1 +1,1 @@
-# .github
+# Informatika - Universitas Jambi
