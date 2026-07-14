@@ -15,4 +15,4 @@ Profil organisasi ini digunakan untuk:
 - Dokumentasi tugas dan pengembangan perangkat lunak
 
 ---
-<p align="center">Ingin gabung menjadi anggota? Follow atau Beri star ke satu repo bebas.</p>
+<p align="center">Ingin gabung menjadi anggota? Follow atau beri star ke satu repo bebas.</p>
