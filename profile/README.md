@@ -1,6 +1,6 @@
 # Informatika - Universitas Jambi
 
-Welcome to the GitHub organization **Informatics Study Program, University of Jambi** 👋
+Welcome to the GitHub organization **Informatics, University of Jambi** 👋
 
 This organization profile is used for:
 - Storing academic and research projects
